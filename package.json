@@ -71,7 +71,7 @@
     "react": "15.1.0",
     "react-addons-css-transition-group": "15.1.0",
     "react-alt-text": "2.0.0",
-    "react-day-picker": "2.3.1",
+    "react-day-picker": "2.2.0",
     "react-dnd": "2.1.4",
     "react-dnd-html5-backend": "2.1.2",
     "react-dom": "15.1.0",
@@ -108,7 +108,7 @@
     "superagent": "1.8.3",
     "supertest": "1.2.0",
     "uglify-js": "2.6.4",
-    "updtr": "0.2.1",
+    "updtr": "0.2.0",
     "watch": "0.19.1"
   },
   "browserify": {
